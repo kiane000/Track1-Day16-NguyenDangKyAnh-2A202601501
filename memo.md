@@ -51,8 +51,6 @@
 
 **§3. Ba dự đoán hướng đi (6–12 tháng tới)**
 
-*(Ghi chú: §2 chưa có dữ liệu nên 3 dự đoán dưới đây dẫn ngược chủ yếu về §1 — timeline và nguyên lý cốt lõi từng mốc — kết hợp bối cảnh cạnh tranh đã nêu trong cột "Context lúc đó". Khi §2 được điền, nên đối chiếu lại từng dự đoán với JTBD/switching cost của tệp hiện tại để siết chặt lập luận.)*
-
 **Dự đoán 1** *(loại: mở rộng tính năng)*
 - **Dự đoán:** Canva sẽ tiếp tục phát triển Canva AI 2.0 thành agent có khả năng tự động hoá nhiều bước liên tiếp: nhận brief → nghiên cứu → tạo nội dung → tạo thiết kế → chỉnh sửa → tạo nhiều phiên bản → lên lịch/publish, thay vì chỉ tạo một asset theo prompt. Hỗ trợ workflow người dùng đáng kể.
 - **Lập luận:** §1 cho thấy Canva đã đi từ Generative AI → Magic Studio → AI-native Workflow → Agentic AI năm 2026; Canva AI 2.0 hiện đã có agentic orchestration, memory, web research, connectors và scheduling. §2 cho thấy JTBD đã chuyển từ “giúp tôi thiết kế” sang “giúp tôi hoàn thành công việc”, nên bước tiếp theo hợp lý là tăng mức độ tự động hóa workflow.
