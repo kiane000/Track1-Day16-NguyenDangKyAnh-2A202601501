@@ -72,7 +72,16 @@
 
 | Việc | AI làm hay nhóm làm? | Nhóm kiểm chứng/phán đoán lại thế nào? |
 |---|---|---|
-| Nghiên cứu timeline Canva AI (§1) | AI (web search + tổng hợp nguồn) | Đối chiếu ngày tháng qua nhiều nguồn (Canva Newsroom, Forbes, Business Wire, PetaPixel...); loại bỏ mốc trùng nguyên lý; tự đặt tên nguyên lý dựa trên khung x10/wrapper-moat/vertical AI/vòng lặp học đã học, không lấy nguyên văn từ bài báo | |
+| Nghiên cứu timeline Canva AI (§1) | AI (web search + tổng hợp nguồn) | Đối chiếu ngày tháng qua nhiều nguồn (Canva Newsroom, Forbes, Business Wire, PetaPixel...); loại bỏ mốc trùng nguyên lý; tự đặt tên nguyên lý dựa trên khung x10/wrapper-moat/vertical AI/vòng lặp học đã học, không lấy nguyên văn từ bài báo |
+| Chọn lọc 6-8 mốc từ đống mốc ứng viên (§1) | Nhóm quyết định, AI đề xuất phương án | AI ban đầu liệt kê nhiều mốc hơn cần thiết (bao gồm cả funding round, GPT Store launch); nhóm tự loại các mốc chỉ là hệ quả tài chính hoặc kênh phân phối phụ (vd. GPT Store 1/2024) vì không kèm quyết định sản phẩm/pricing/segment mới, giữ lại đúng các mốc đổi kiến trúc/segment/quyền sở hữu model |
+| Tìm early adopters cụ thể + tệp user hiện tại (§2) | AI (web search G2, Capterra, First Round Review, Lenny's Newsletter) | Nhóm đối chiếu mô tả "SME/chủ shop nhỏ/marketing" với dữ liệu định lượng từ G2 (4.445 review) để tránh mô tả cảm tính; tự phân lại 4 nhóm user hiện tại theo JTBD thay vì theo demographic AI đề xuất ban đầu |
+| Viết JTBD cho từng tệp (§2) | AI soạn thảo, nhóm chỉnh sửa câu | Nhóm yêu cầu AI viết lại theo đúng format "việc cần làm" (không theo tính năng) khi bản đầu AI vẫn lẫn tên tính năng vào câu JTBD; kiểm tra chéo với review 1-2 sao trên Capterra để xác nhận JTBD nào chưa được đáp ứng |
+| Map switching cost vào 4 forces (§2) | AI đề xuất khung, nhóm tự đánh giá lực nào mạnh nhất | AI chỉ liệt kê bằng chứng cho từng force; nhóm tự suy luận kết luận "Habit + lock-in dữ liệu là lực mạnh nhất, không phải chất lượng AI" — đây là phán đoán chiến lược của nhóm, AI không tự đưa ra nhận định này mà chỉ cung cấp dữ kiện thô |
+| Soạn 3 dự đoán hướng đi ban đầu (§3) | AI soạn thảo | Nhóm phát hiện Dự đoán 1 (bản đầu) dùng pricing trend làm bằng chứng dù pricing đã bị loại khỏi §1 — yêu cầu AI sửa lại để neo đúng vào mốc AI 2.0 (Canva Design Model tốn compute hơn wrapper cũ) thay vì dẫn nguồn ngoài khung dữ liệu |
+| Kiểm chứng chi tiết Dự đoán 2 (danh sách connector: Slack/Gmail/HubSpot/Atlassian/Linear...) | AI web search xác minh | Nhóm yêu cầu AI search lại trước khi chốt vì đây là claim cụ thể, có thể sai; AI đối chiếu 3 nguồn độc lập (CMSWire, UC Today, ForEverySale) cho cùng danh sách connector trước khi xác nhận |
+| Bổ sung Dự đoán 4 — Affinity/professional designer | Nhóm tự viết, không qua AI | Nhóm tự nhận diện đây là góc còn thiếu trong bộ 3 dự đoán ban đầu (AI chỉ tập trung agent/enterprise/pricing, chưa có dự đoán về segment designer) và tự thêm dựa trên mốc Affinity đã có sẵn ở §1, không nhờ AI soạn |
+| Trích dẫn nguồn cho từng dòng bảng | AI tổng hợp, gắn link | Nhóm yêu cầu AI trích cụ thể URL cho từng luận điểm thay vì chỉ nói chung chung "theo báo cáo ngành"; loại bỏ các nguồn thứ cấp diễn giải lại (Weam, KITRUM...) ưu tiên nguồn gốc (Canva Newsroom, Hacker News, Business Wire) |
+
 
 ## Sources
 
